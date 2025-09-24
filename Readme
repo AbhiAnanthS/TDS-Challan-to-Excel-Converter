@@ -1,0 +1,49 @@
+# TDS Challan to Excel Converter  
+
+A simple tool to convert **TDS challans** into an easy-to-read **Excel format**.  
+This helps in quickly extracting challan details and simplifies **TDS reconciliation (TDS Reco)**.  
+
+---
+
+## 🚀 How It Works  
+
+1. **Place your TDS challans**  
+   - Copy all your TDS challan files into a single folder.  
+   - Note down the folder path.  
+
+2. **Update the folder path in Excel**  
+   - Open the provided Excel file.  
+   - Enter the path of the folder where your challans are stored.  
+
+3. **Refresh the data**  
+   - In Excel, select any of the tables.  
+   - Press **Alt + F5** (or right-click → *Refresh*).  
+   - Both tables will update automatically with challan details.  
+
+---
+
+## 📊 Output  
+
+- Excel will generate a structured table of challan details.  
+- Easy to filter, search, and reconcile.  
+
+---
+
+## ⚡ Benefits  
+
+- No more manual entry of challan data.  
+- Saves time during TDS reconciliation.  
+- Reduces chances of errors.  
+
+---
+
+## 💡 Notes  
+
+- Make sure all challans are in the correct format before running.  
+- If tables don’t refresh, try **Data → Refresh All** from Excel’s ribbon.  
+
+---
+
+## 🔗 Feedback & Contributions  
+
+Found a bug or have a suggestion? Feel free to open an **issue** or contribute via a **pull request**.  
